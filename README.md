@@ -67,7 +67,8 @@ Through continuous learning, research, and tool development, we explore the laye
 ### 🌐 Logo
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iwcyberdefence/iwcyberdefence/main/logo.png" alt="IW Cyber Defence Logo" width="300"/>
+  ![17](https://github.com/user-attachments/assets/65acd250-be1a-4034-a19e-41396dee0387)
+
 </p>
 
 ---
