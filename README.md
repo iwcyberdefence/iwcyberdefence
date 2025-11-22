@@ -45,7 +45,7 @@ Through continuous learning, research, and tool development, we explore the laye
 | 🧑‍💻 GitHub | [github.com/iwcyberdefence](https://github.com/iwcyberdefence) |
 | 🎥 YouTube | [youtube.com/@iwcyberdefence](https://youtube.com/@iwcyberdefence) |
 | 🐦 X (Twitter) | [x.com/@iwcyberdefence](https://x.com/@iwcyberdefence) |
-| 🎭 TikTok | [tiktok.com/@iw.cyberdefence](https://www.tiktok.com/@iw.cyberdefence) |
+| 🎭 TikTok | [tiktok.com/@iw.cyberdefence](https://www.tiktok.com/@iwcyberdefence) |
 
 ---
 
